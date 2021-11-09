@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 function setup () {
   createCanvas(400, 400);
 }
